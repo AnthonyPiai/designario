@@ -1,0 +1,14 @@
+.git
+.github
+node_modules
+dist
+.wrangler
+.vinext
+.vercel
+coverage
+*.log
+.env*
+.dev.vars
+.DS_Store
+Dockerfile
+.dockerignore
